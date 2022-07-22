@@ -15,7 +15,7 @@
 // smooth scroll
 // smooth scroll
 $(document).ready(function(){
-    $(".navbar .nav-link").on('click', function(event) {
+    $(".scroll-btn").on('click', function(event) {
 
         if (this.hash !== "") {
 
@@ -31,6 +31,8 @@ $(document).ready(function(){
         } 
     });
 });
+
+
 
 // portfolio carousel
 $('#owl-portfolio').owlCarousel({
