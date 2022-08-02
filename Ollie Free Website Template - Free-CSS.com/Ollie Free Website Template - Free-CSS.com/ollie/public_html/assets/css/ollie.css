@@ -75,10 +75,7 @@ body {
   text-align: left;
   background-color: #fff;
   width: 100%;
-  overflow-y: scroll;
-   overflow-x: hidden;
-   perspective: 1px;
-   transform-style: preserve-3d;
+
 }
 
 [tabindex="-1"]:focus {
@@ -11626,6 +11623,7 @@ pre .code {
       -ms-flex-direction: column;
           flex-direction: column;
           transform: translateZ(0);
+          
 }
 
 .header .overlay {
