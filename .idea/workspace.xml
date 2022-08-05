@@ -5,12 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bbf23c70-5554-4532-8ead-eb0a6d3311fe" name="Changes" comment="&#10;parallax changes made">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ollie Free Website Template - Free-CSS.com/Ollie Free Website Template - Free-CSS.com/ollie/public_html/assets/imgs/header5.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ollie Free Website Template - Free-CSS.com/Ollie Free Website Template - Free-CSS.com/ollie/public_html/assets/imgs/header22.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ollie Free Website Template - Free-CSS.com/Ollie Free Website Template - Free-CSS.com/ollie/public_html/assets/imgs/header4.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ollie Free Website Template - Free-CSS.com/Ollie Free Website Template - Free-CSS.com/ollie/public_html/assets/imgs/iynahhyh.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ollie Free Website Template - Free-CSS.com/Ollie Free Website Template - Free-CSS.com/ollie/public_html/assets/css/ollie.css" beforeDir="false" afterPath="$PROJECT_DIR$/Ollie Free Website Template - Free-CSS.com/Ollie Free Website Template - Free-CSS.com/ollie/public_html/assets/css/ollie.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Ollie Free Website Template - Free-CSS.com/Ollie Free Website Template - Free-CSS.com/ollie/public_html/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Ollie Free Website Template - Free-CSS.com/Ollie Free Website Template - Free-CSS.com/ollie/public_html/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -35,13 +31,28 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "/home/shola/wordpress"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/shola/wordpress&quot;
   }
-}]]></component>
+}</component>
+  <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="website" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="website" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -79,7 +90,35 @@
       <option name="project" value="LOCAL" />
       <updated>1659374773148</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="&#10;parallax changes made">
+      <created>1659376986851</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1659376986851</updated>
+    </task>
+    <task id="LOCAL-00006" summary="&#10;parallax changes made">
+      <created>1659377037479</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1659377037479</updated>
+    </task>
+    <task id="LOCAL-00007" summary="&#10;parallax changes made">
+      <created>1659390952390</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1659390952390</updated>
+    </task>
+    <task id="LOCAL-00008" summary="&#10;parallax changes made">
+      <created>1659391590162</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1659391590162</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
