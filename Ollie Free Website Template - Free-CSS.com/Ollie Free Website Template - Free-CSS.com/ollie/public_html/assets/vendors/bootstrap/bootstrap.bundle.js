@@ -386,7 +386,6 @@
     $.fn[NAME] = JQUERY_NO_CONFLICT;
     return Alert._jQueryInterface;
   };
-
   /**
    * ------------------------------------------------------------------------
    * Constants
