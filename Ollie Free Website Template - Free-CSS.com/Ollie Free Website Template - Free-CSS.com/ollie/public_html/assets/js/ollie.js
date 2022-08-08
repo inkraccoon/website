@@ -10,7 +10,8 @@
 =========================================================
 
 * The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
-*/
+*/ 
+
 
 jQuery(document).ready(function ($) {
 
@@ -58,7 +59,6 @@ jQuery(document).ready(function ($) {
       });
   
   });    
-  
 
 // smooth scroll
 // smooth scroll
@@ -79,7 +79,7 @@ $(document).ready(function(){
         } 
     });
 });
-
+/
 
 
 // portfolio carousel
