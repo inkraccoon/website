@@ -11606,10 +11606,10 @@ pre .code {
 }
 
 .header {
-  /* position: relative;
-  height: 100vh;
   position: relative;
   height: 100vh;
+  position: relative;
+  height:100vh;
   width:100%;
   min-height: 600px;
   background-size: cover;
@@ -11622,11 +11622,11 @@ pre .code {
   -webkit-box-direction: normal;
   -webkit-flex-direction: column;
       -ms-flex-direction: column;
-          flex-direction: column; */
+          flex-direction: column; 
 }
 
 .header .overlay{
-  position: relative;
+ position: relative;
   top: 0;
   left: 0;
   width: 100%;
