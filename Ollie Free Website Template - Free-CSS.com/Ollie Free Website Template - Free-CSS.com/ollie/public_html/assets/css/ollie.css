@@ -6911,6 +6911,7 @@ a.close.disabled {
     overflow-y: auto;
     -webkit-perspective: 300px;
     perspective: 300px;
+    margin-top: 300px;
   }
 
   .parallax__group {
@@ -11726,8 +11727,9 @@ html, body {
 #slider {
   position: relative;
   overflow: hidden;
-  margin: 20px auto 0 auto;
+  margin: 0px auto 0 auto;
   border-radius: 4px;
+  height: 100vh;
 }
 
 #slider ul {
@@ -11806,7 +11808,7 @@ a.control_next {
   -webkit-align-items: center;
       -ms-flex-align: center;
           align-items: center;
-  margin-top: 100px;
+  margin-top: -900px;
 }
 
 .header .carousel .carousel-inner .carousel-title {
